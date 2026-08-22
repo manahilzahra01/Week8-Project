@@ -1,0 +1,11 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+scipy>=1.12
+matplotlib>=3.8
+streamlit>=1.35
+sentence-transformers>=3.0
+torch>=2.2
+transformers>=4.40
+nbformat>=5.10
+nbclient>=0.10
