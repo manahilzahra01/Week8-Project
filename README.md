@@ -1,9 +1,7 @@
-## AI-POWERED RESUME SCREENING & APPLICANT TRACKING SYSTEM (ATS)
+## AI-POWERED RESUME SCREENING & APPLICANT TRACKING SYSTEM 
  #  Multi-Candidate AI Resume Screening & Hybrid Match Score Dashboard
-
- # Domain: AI & Machine Learning
-
-# Tools & Libraries: Python, Streamlit, Sentence-BERT (S-BERT), RegEx, Pandas, pdfplumber, Google Colab
+ Domain: AI & Machine Learning
+Tools & Libraries: Python, Streamlit, Sentence-BERT (S-BERT), RegEx, Pandas, pdfplumber, Google Colab
 
 ## 1. Project Background & Objective
 Modern recruitment channels receive hundreds of resumes for a single job opening. Human Resource (HR) teams spend dozens of manual hours reviewing documents, creating severe operational delays. Traditional Applicant Tracking Systems (ATS) use plain keyword searches, which often reject strong candidates simply because they used different phrasing or synonyms.
