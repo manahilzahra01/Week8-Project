@@ -1,0 +1,4 @@
+,Precision@5,Recall@5,nDCG@5,F1-score,ROC-AUC,threshold_used
+TF-IDF + Cosine,1.0,0.8333,1.0,0.9965,1.0,0.2631
+Semantic (tfidf_lsa) + Cosine,1.0,0.8333,1.0,1.0,1.0,0.2781
+Hybrid (Semantic + Skill-Aware),0.9958,0.8299,0.9973,0.9735,0.9997,0.36
